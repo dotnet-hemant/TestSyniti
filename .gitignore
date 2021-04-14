@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TestJson
+/bin/Debug/net5.0
+/obj/Debug/net5.0/ref/TestApi.dll
+/obj
+/**.user
