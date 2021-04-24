@@ -1,9 +1,8 @@
 ﻿1)What’s your proudest achievement? It can be a personal project or something you’ve worked on professionally. Just a short paragraph is fine, but I’d love to know why you’re proud of it.
     
-    My proudest achievement was when in one of the project I have worked long back. I have developed and worked on  a payment system and due to some business process glitch that application processed
-    the realtime credit card transaction for thousand of the customer. The moment it came to notice to us, I started the invetigation on the issue and developed a utility overnight
-    to cancel those transaction and refund the amounts back to the customer. This was a business issue though we saved the business and pride of the organization.
-    I worked with that client for some more year and they continued to thank us for that wonderful and in time support as it was realted to customer and than their money.
+    My proudest achievement was in one of the project I have worked long back. I have developed and worked on  a payment system and due to some business process 
+    glitch that application processed the realtime credit card transaction for thousands of the customers. The moment it came to our notice, I started the invetigation on the issue and developed a utility overnight to cancel those transactions and issue refund the amounts to the customer. This was a business issue though we saved the business and pride of the organization.
+    I worked with that client for next few years and they continued to thank us for that wonderful and in time support as it was resulted into value to customer and than their money.
 
 2)What's a personal project you're currently working on? This could be a coding side project, hobby, or otherwise real world project you're working on.
     Currently I 'm working on a personal project to setup some farmhouse close to nature where I can go and relax with my family and often can feel like vacation though continue to work from there.
@@ -15,5 +14,5 @@
 4)Tell us about one of your favorite products (physical or software) and one specific aspect that makes it truly great.
     my favorire product is my son and in all aspect he is great.  Now to your question I worked on one of project related to provide provide rating to movies. for this purpose
 feeds from many channel and sources were pushed and then massaged via sql to produce the ratings like IMDB and other channel. 
-We have processed many format excel and csv and finally used store procedure in MS SQL to process data which was in millions. I enjoyed with the kind of work with complex quereies, join, CTE, pivot and many other logic I have written 
-during that time. It gave me sense of satisfaction that even we have written the logic manually over such a volume of dta but the result were correct.
+We have processed many format excel and csv and finally used store procedure in MS SQL to process data which was in millions. I enjoyed with the kind of work with complex quereies, join, CTE, pivot and many other logic I have written during that time.
+It gave me sense of satisfaction that even we have written the logic manually over such a volume of data but the result were correct.
